@@ -1,5 +1,5 @@
 {
-  "name": "progress-cal",
+  "name": "electron-menubar-create-react-app-starter",
   "author": "Babs Craig <babscraig@gmail.com> (https://babscraig.com/)",
   "license": "MIT",
   "version": "0.1.0",
@@ -42,7 +42,7 @@
     "not op_mini all"
   ],
   "build": {
-    "appId": "com.electron.electron-with-create-react-app",
+    "appId": "com.electron.electron-menubar-create-react-app-starter",
     "win": {
       "iconUrl": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-256.png"
     },
